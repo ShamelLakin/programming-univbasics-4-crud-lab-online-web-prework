@@ -11,8 +11,8 @@ def add_element_to_end_of_array(create_an_array, scarf)
   
 end
 
-def add_element_to_start_of_array(create_an_array, element)
-  
+def add_element_to_start_of_array(create_an_array, muffs)
+  add_element_to_start_of_array.unshift()
 end
 
 def remove_element_from_end_of_array(array)
