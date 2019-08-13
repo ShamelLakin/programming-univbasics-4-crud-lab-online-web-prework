@@ -43,6 +43,6 @@ def retrieve_last_element_from_array(create_an_array)
   p retrieve_last_element_from_array
 end
 
-def update_element_from_index(array, index_number, element)
+def update_element_from_index(create_an_array, [], element)
   p update_element_from_index
 end
