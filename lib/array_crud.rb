@@ -15,19 +15,19 @@ def add_element_to_start_of_array(create_an_array, muffs)
   add_element_to_start_of_array.unshift("muffs")
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(create_an_array)
+  remove_element_from_end_of_array.pop("scarf")
+end
+
+def remove_element_from_start_of_array(create_an_array)
   
 end
 
-def remove_element_from_start_of_array(array)
+def retrieve_element_from_index(create_an_array, [2])
   
 end
 
-def retrieve_element_from_index(array, index_number)
-  
-end
-
-def retrieve_first_element_from_array(array)
+def retrieve_first_element_from_array(create_an_array)
   
 end
 
