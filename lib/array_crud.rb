@@ -33,6 +33,7 @@ def retrieve_element_from_index(create_an_array, [2])
 end
 
 def retrieve_first_element_from_array(create_an_array)
+  retrieve_first_element_from_array [0]
   
   p retrieve_first_element_from_array
 end
