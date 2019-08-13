@@ -44,6 +44,6 @@ def retrieve_last_element_from_array(create_an_array)
 end
 
 def update_element_from_index(create_an_array, [3], "gloves")
-  create_an_array = mittens
+  create_an_array = "mittens"
   p update_element_from_index
 end
